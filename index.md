@@ -25,6 +25,13 @@ Nationality : Thai
 
 - English
 
+### Skill
+- Microsoft word,power point,excel
+
+- Photoshop
+
+- Python
+
 ### Performance
 - 2nd place Computer and robot Academic Works Contest, Poster Presentation 
 Subject: Automatic watering simulation system in a house by using soil moisture as a command and displaying through a digital screen
